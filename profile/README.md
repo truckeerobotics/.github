@@ -1,5 +1,10 @@
 ## Truckee Robotics Github Page 👋
 
-🙋‍♀️ This is the official github group for the Truckee Robotics Team (20285)  
-🧙 Our teams website is [truckeerobotics.com](https://truckeerobotics.com/)  
-🍿 We'll see you guys out on the field during FTC 2022!
+🙋‍♀️ This is the official GitHub group for the Truckee Robotics Club
+🍿 Currently competing in FTC 2023
+🙌 Upcoming projects:
+1. Gas go-kart
+2. Gas scooter
+3. FTC Simulation
+
+✌️You can contact us at truckeerobotics@gmail.com
